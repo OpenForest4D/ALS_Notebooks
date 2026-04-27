@@ -1,6 +1,5 @@
 [![NSF-1948997](https://img.shields.io/badge/NSF-2409885-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2409885) [![NSF-2409886](https://img.shields.io/badge/NSF-2409886-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2409886) [![NSF-2409887](https://img.shields.io/badge/NSF-2409887-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2409887)
 
-[![GitHub downloads](https://img.shields.io/github/downloads/OpenForest4D/ALS_Notebooks/total)](https://github.com/OpenForest4D/ALS_Notebooks/releases)
 
 OpenForest4D Computational Notebooks
 
