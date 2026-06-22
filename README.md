@@ -8,6 +8,11 @@ OpenForest4D Computational Notebooks
 
 2. [forest_canopy_gap_detection_CHM.ipynb](https://github.com/OpenForest4D/ALS_Notebooks/blob/main/forest_canopy_gap_detection_CHM.ipynb) - This R notebook reads a canopy height model (CHM) raster dataset, detects forest canopy gaps based on a height threshold and area limits, computes per-gap statistics, converts them to polygons with centroids, and visualizes the gaps in the forest canopy. 
 
-OpenForest4D is funded by NSF awards 2409885, 2409886 & 2409887.
 
- 
+### Notes
+
+**June 22nd 2026** : Users may get "package ‘lidR’ is not available for this version of R" error when running in Google Colab. Google Colab latest runtime version is R 4.6.0 (Released April 2026 - https://research.google.com/colaboratory/runtime-version-faq.html#2026.04), and CRAN binaries for Linux (which is what Colab runs) often lag behind a new R release by weeks or months. The package exists, but there's no pre-compiled binary for R 4.6 on Ubuntu yet.
+Swicth Runtime version to "2026.04" if you run into this issue. 
+
+
+OpenForest4D is funded by NSF awards 2409885, 2409886 & 2409887.
