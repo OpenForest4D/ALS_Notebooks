@@ -11,8 +11,8 @@ OpenForest4D Computational Notebooks
 
 ### Notes
 
-**June 22nd 2026** : Users may get "package ‘lidR’ is not available for this version of R" error when running in Google Colab. Google Colab latest runtime version is R 4.6.0 (Released April 2026 - https://research.google.com/colaboratory/runtime-version-faq.html#2026.04), and CRAN binaries for Linux (which is what Colab runs) often lag behind a new R release by weeks or months. The package exists, but there's no pre-compiled binary for R 4.6 on Ubuntu yet.
-Swicth Runtime version to "2026.04" if you run into this issue. 
+**June 22nd 2026** : Users may get "package ‘lidR’ is not available for this version of R" error when running in Google Colab. Google Colab latest runtime version is R 4.6.0 (Released April 2026 - https://research.google.com/colaboratory/runtime-version-faq.html#2026.04), and CRAN binaries for Linux often lag behind a new R release by weeks or months. The package exists, but there's no pre-compiled binary for R 4.6 on Ubuntu yet.
+Solution - Switch Runtime version to "2026.04" if you run into this issue. 
 
 
 OpenForest4D is funded by NSF awards 2409885, 2409886 & 2409887.
